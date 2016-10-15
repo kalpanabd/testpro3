@@ -1,3 +1,4 @@
 Github is a web-based Git depository hosting service.
 Git is closely a command line tool.
 Github gives a web-based graphical interface, desktop and mobile alliance.
+It also provides access control and several collaboration featuressuch as bug tracking,feature requests, task management and wikipedia for every project.
